@@ -7,6 +7,8 @@
     object-fit: cover;
     background-position: center;
     box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+    color: white;
 }
 img{
     width: 20%;

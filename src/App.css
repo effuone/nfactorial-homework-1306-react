@@ -10,6 +10,7 @@
     flex-direction: row;
     flex-flow: wrap;
 }
+
 @media screen and (max-width: 1200px){
     .container{
         flex-direction: column;
@@ -17,11 +18,5 @@
     .block{
         width: 98vw;
         height: 20vh;
-    }
-}
-@media screen and (max-width: 600px){
-    .block{
-        width: 70%;
-        height: 50%;
     }
 }
